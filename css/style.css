@@ -336,7 +336,7 @@ html {
   height: 28px;
   margin-left: 8px;
   /* 文字との間隔 */
-  background: url(/image/title-image.png) no-repeat center/contain;
+  background: url(../image/title-image.png) no-repeat center/contain;
 }
 
 .main {
@@ -507,12 +507,12 @@ html {
 }
 
 .service__wave-top {
-  background-image: url(/image/service-bg01.png);
+  background-image: url(../image/service-bg01.png);
   background-position: bottom;
 }
 
 .service__wave-bottom {
-  background-image: url(/image/service-bg02.png);
+  background-image: url(../image/service-bg02.png);
   background-position: top;
   margin-top: -2px;
 }
@@ -535,7 +535,7 @@ html {
   position: absolute;
   width: 28px;
   height: 28px;
-  background: url(/image/title-image.png) no-repeat center/contain;
+  background: url(../image/title-image.png) no-repeat center/contain;
   top: 50%;
   left: -36px;
   -webkit-transform: translateY(-65%);
@@ -769,11 +769,11 @@ html {
 }
 
 .company__left {
-  background-image: url(/image/philosophy.png);
+  background-image: url(../image/philosophy.png);
 }
 
 .company__right {
-  background-image: url(/image/company.png);
+  background-image: url(../image/company.png);
 }
 
 .company__title {
@@ -823,7 +823,7 @@ html {
 
 .staff {
   padding: 120px 0;
-  background-image: url(/image/staff-bg.png);
+  background-image: url(../image/staff-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -865,7 +865,7 @@ html {
 
 .recruit {
   padding: 120px 0;
-  background-image: url(/image/recruit-bg.png);
+  background-image: url(../image/recruit-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -977,7 +977,7 @@ html {
 
 .footer {
   margin-top: 200px;
-  background-image: url(/image/footer-bg.png);
+  background-image: url(../image/footer-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1321,7 +1321,7 @@ html {
   .staff {
     padding-top: 120px;
     padding-bottom: 80px;
-    background-image: url(/image/staff-bg-sp.png);
+    background-image: url(../image/staff-bg-sp.png);
   }
   .staff__inner {
     position: static;
@@ -1397,7 +1397,7 @@ html {
             order: 6;
   }
   .recruit {
-    background-image: url(/image/recruit-bg-sp.png);
+    background-image: url(../image/recruit-bg-sp.png);
     padding: 60px 0;
   }
   .recruit__body {
@@ -1494,7 +1494,7 @@ html {
     padding-bottom: 0;
   }
   .footer {
-    background-image: url(/image/footer-bg-sp.png);
+    background-image: url(../image/footer-bg-sp.png);
     background-position: center top;
   }
   .footer__inner {
