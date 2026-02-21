@@ -130,7 +130,7 @@ img {
     right: 0;
     width: 100%;
     bottom: 0;
-    background: url(/image/overlay.png) no-repeat center/cover;
+    background: url(../image/overlay.png) no-repeat center/cover;
     -webkit-transform: translateX(100%);
             transform: translateX(100%);
     -webkit-transition: all 0.5s;
